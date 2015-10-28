@@ -1,0 +1,7 @@
+[deps]
+./routes = 
+github.com/zenazn/goji = 
+
+[res]
+include = public
+
